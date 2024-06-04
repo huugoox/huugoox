@@ -10,7 +10,12 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">
+  ✨ Creating bugs since I wrote my first line of code<br>
+  📚 I'm currently learning advanced algorithms and data structures<br>
+  🎯 Goals: Become proficient in machine learning and contribute to open-source projects<br>
+</p>
+
 
 ###
 

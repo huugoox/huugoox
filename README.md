@@ -1,33 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# React + Vite
 
-###
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-<p align="left">My name is Hugo Fernandez and I am a second-year Computer Engineering student </p>
+Currently, two official plugins are available:
 
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">
-  📚 I'm currently learning advanced algorithms and data structures<br>
-  🎯 Goals: Become proficient in machine learning and contribute to open-source projects<br>
-</p>
-
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
-
-###
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Hugo Fernandez and I am a third-year Computer Engineering student </p>
+<p align="left">My name is Hugo Fernandez and I am a fourth-year Computer Engineering student </p>
 
 ###
 
